@@ -1,3 +1,3 @@
 # dangoggman.github.io
 
-My portfolio
+My portfolio with latest changes
